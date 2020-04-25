@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - The-Special-Pancake</title>
+  
+
+</head>
+<body>
+    <div>
+      <h1>The Special Pancake</h1>
+      <h2>What's a pancake?</h2>
+      <p>A pancake (or hotcake, griddlecake, or flapjack, not to be confused with oat bar flapjacks) is a <em>flat cake</em>, often thin and round, prepared from a starch-based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter. Archaeological evidence suggests that pancakes were probably the earliest and most widespread cereal food eaten in prehistoric societies.[1]
+      </p>
+      <img src="images/pancake01.jpg" width="45%"/>
+      
+    </div>
+    <div>
+      <h2>A lot of pancakes!</h2>
+      <p>The pancake's shape and <b>structure varies worldwide</b>. In England, pancakes are often unleavened and resemble a crêpe.[2] In North America, a leavening agent is used (typically baking powder) creating a thick fluffy pancake. <em>A crêpe is a thin Breton pancake of French origin cooked on one or both sides in a special pan or crepe maker <b>to achieve a lacelike network of fine bubbles.</b></em> A well-known variation originating from southeas <a href="http://en.wikipedia.org/wiki/Europe" target="_blank">Europe</a> is a palačinke, a thin moist pancake fried on both sides and filled with jam, cheese cream, chocolate, or ground walnuts, but many other fillings—sweet or savoury—can also be used.</p>
+    </div>
+ 
+  </body>
+</html>
