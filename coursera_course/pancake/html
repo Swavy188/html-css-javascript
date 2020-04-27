@@ -1,24 +1,62 @@
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>CodePen - The-Special-Pancake</title>
-  
-
-</head>
-<body>
+<html>
+  <head>
+    <title>The Special Pancake</title>
+  </head>
+  <body>
     <div>
       <h1>The Special Pancake</h1>
+    </div>
+    <div id="firstDiv"> 
       <h2>What's a pancake?</h2>
       <p>A pancake (or hotcake, griddlecake, or flapjack, not to be confused with oat bar flapjacks) is a <em>flat cake</em>, often thin and round, prepared from a starch-based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter. Archaeological evidence suggests that pancakes were probably the earliest and most widespread cereal food eaten in prehistoric societies.[1]
       </p>
-      <img src="images/pancake01.jpg" width="45%"/>
+   
+    </div>
       
-    </div>
-    <div>
+    <div id="secondDiv">
       <h2>A lot of pancakes!</h2>
-      <p>The pancake's shape and <b>structure varies worldwide</b>. In England, pancakes are often unleavened and resemble a crêpe.[2] In North America, a leavening agent is used (typically baking powder) creating a thick fluffy pancake. <em>A crêpe is a thin Breton pancake of French origin cooked on one or both sides in a special pan or crepe maker <b>to achieve a lacelike network of fine bubbles.</b></em> A well-known variation originating from southeas <a href="http://en.wikipedia.org/wiki/Europe" target="_blank">Europe</a> is a palačinke, a thin moist pancake fried on both sides and filled with jam, cheese cream, chocolate, or ground walnuts, but many other fillings—sweet or savoury—can also be used.</p>
+      <p class="explan">The pancake's shape and <b>structure varies worldwide</b>. In England, pancakes are often unleavened and resemble a crêpe.[2] In North America, a leavening agent is used (typically baking powder) creating a thick fluffy pancake. <em>A crêpe is a thin Breton pancake of French origin cooked on one or both sides in a special pan or crepe maker <b>to achieve a lacelike network of fine bubbles.</b></em> A well-known variation originating from southeast Europe is a palačinke, a thin moist pancake fried on both sides and filled with jam, cheese cream, chocolate, or ground walnuts, but many other fillings—sweet or savoury—can also be used.</p>
+      <img src="https://image.freepik.com/vettori-gratuito/stile-di-disegno-dell-illustrazione-di-pancake_53876-44118.jpg" width="25%" id="panc1"/> 
     </div>
- 
+  <div>
+    <table id="ingredTable">
+      <tr>
+        <th>Ingredients</th>
+        <th>Quantity</th>
+      </tr>
+      <tr>
+        <th>Flour</th>
+        <th>350gr.</th>
+      </tr>
+      <tr>
+        <th>Sugar</th>
+        <th>100 gr.</th>
+      </tr>
+      <tr>
+        <th>Milk</th>
+        <th>150 ml.</th>
+      </tr>
+      <tr>
+        <th>Yeast</th>
+        <th>10 gr.</th>
+      </tr>
+    </table>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2gC__35Ds6FttmoIMA1z41Eh_ZChOoEx-ociTbZeKpz0k7xeY&usqp=CAU" width="25%" id="panc2"/>
+    <table id="emb-table">
+      <tr>
+        <th>Embellishment</th>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li class="embLi">Maple syrup</li>
+            <li class="embLi">Strawberries</li>
+            <li class="embLi">Chocolate</li>
+            <li class="embLi">Nuts cream</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </div>
   </body>
 </html>
