@@ -41,6 +41,8 @@
         <th>10 gr.</th>
       </tr>
     </table>
+    </div>
+    <div id="thirdDiv">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2gC__35Ds6FttmoIMA1z41Eh_ZChOoEx-ociTbZeKpz0k7xeY&usqp=CAU" width="25%" id="panc2"/>
     <table id="emb-table">
       <tr>
